@@ -1,0 +1,57 @@
+.prueba {
+	color: red;
+}
+
+.franja{	
+	height:50px;
+	background: #D34646;
+}
+
+.posicion{
+	position: absolute; top:6px; left: 595px;
+}
+
+.tex{	
+	color: white;
+	font-size:10px;
+	position: absolute; top:0px; left: 640px;
+}
+
+.agua{
+	width:1px; 
+	height:1px;
+}
+
+.letra{
+	/*font-family: "Verdana";*/
+	font: oblique bold 120% cursive;
+}
+
+
+
+/*
+.carousel, .carousel-inner > .item > img {
+  height: 350px;
+  width: 950px;
+}
+
+.tablabran {
+	width: 300px;
+	position: absolute; top: 850px; left: 835px;
+}
+
+.ancho h3{
+	text-align: center;
+}
+
+.navbar-inverse .nav li a:hover{
+  color: red;
+}
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif, Verdana;    
+}
+*/
+
+
+
